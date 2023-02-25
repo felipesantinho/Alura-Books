@@ -3,3 +3,6 @@
 
 ## Link
 [Link do projeto para versão responsiva](https://felipesantinho.github.io/Alura-Books/)
+
+### Descrição
+ Criação de uma página web responsiva simulando uma loja virtual de livros.
